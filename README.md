@@ -35,8 +35,7 @@ Data is stored using:
 ## ⚙️ Features
 
 * Book Seat
-* View Available Seats
-* View Reserved Seats
+* View Seat Status
 * Save Booking To TXT File
 * Load Existing Bookings
 * Display All Bookings
@@ -65,7 +64,7 @@ AirlineBookingSystem
 * Functions
 * 2D Arrays
 * File Handling
-* StringStream
+* stringstream
 * Data Parsing
 * Menu Driven Applications
 
@@ -85,7 +84,7 @@ Example:
 
 Reserved seats are marked as:
 
-[X]
+[XX]
 
 ---
 
@@ -137,7 +136,7 @@ This prevents data loss between program executions.
 * Search Booking By Passport Number
 * Cancel Booking
 * Edit Passenger Information
-* Input Validation
+* Passenger Data Validation
 * Seat Categories (Economy / Business)
 * Ticket Generation
 * OOP Version Using Classes
