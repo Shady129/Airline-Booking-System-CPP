@@ -1,4 +1,7 @@
 # ✈️ AirlineBookingSystem-CPP
+<p align="center">
+  <img src="Images/AirlineBookingSystem-Poster.png" width="100%">
+</p>
 
 ## 📌 Overview
 
